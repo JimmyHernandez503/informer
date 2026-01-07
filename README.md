@@ -1,5 +1,5 @@
 ![image](https://raw.githubusercontent.com/paulpierre/informer/master/github/screenshots/informer-logo.gif)
-# Informer - Telegram Mass Surveillance
+# Informer - Telegram
 
 ## Update 10-20-2025
 * **Security**: Fixed high-severity vulnerability CVE-2022-1941 in mysql-connector-python
@@ -18,7 +18,7 @@
 * Replaced docker-compose in lieu of App Engine bc AE sux
 
 ## About
-**Informer (TGInformer) is a bot library that allows you to masquerade as multiple REAL users on telegram** and spy on 500+ Telegram channels **per account**. Details are logged to a MySQL database, a private Google Sheet and your own private channel for analysis.
+**Informer (TGInformer) is a bot library that allows you to manage 500+ Telegram channels **per account**. Details are logged to a MySQL database, a private Google Sheet and your own private channel for analysis.
 
 This is a functioning proof-of-concept project with known bugs. Feel free to fork, share and drop me a line.
 
